@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nike-dev
 - 👀 I’m interested in learning to code/gaming (fun right?)
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently on the Full-stack path working through Javascript foundations from "The Odin Project".
 
 
 
